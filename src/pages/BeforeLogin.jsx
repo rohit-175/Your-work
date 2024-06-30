@@ -6,7 +6,7 @@ const BeforeLogin = () => {
         <>
             <div className='header'>
                 <Typography variant='h2'>
-                    WELCOME TO SONGIFY
+                    WELCOME TO MUSIFY
                 </Typography>
                 <Typography variant='h3'>
                     Listening is Everything
